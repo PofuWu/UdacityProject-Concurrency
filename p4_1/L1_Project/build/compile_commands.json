@@ -1,0 +1,32 @@
+[
+{
+  "directory": "/Users/pofu/Desktop/Udacity/p4/p4_1/L1_Project/build",
+  "command": "/usr/bin/clang++  -isystem /usr/local/include/opencv4  -std=c++17 -pthread -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.0.sdk -std=gnu++11 -o CMakeFiles/traffic_simulation.dir/src/Graphics.cpp.o -c /Users/pofu/Desktop/Udacity/p4/p4_1/L1_Project/src/Graphics.cpp",
+  "file": "/Users/pofu/Desktop/Udacity/p4/p4_1/L1_Project/src/Graphics.cpp"
+},
+{
+  "directory": "/Users/pofu/Desktop/Udacity/p4/p4_1/L1_Project/build",
+  "command": "/usr/bin/clang++  -isystem /usr/local/include/opencv4  -std=c++17 -pthread -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.0.sdk -std=gnu++11 -o CMakeFiles/traffic_simulation.dir/src/Intersection.cpp.o -c /Users/pofu/Desktop/Udacity/p4/p4_1/L1_Project/src/Intersection.cpp",
+  "file": "/Users/pofu/Desktop/Udacity/p4/p4_1/L1_Project/src/Intersection.cpp"
+},
+{
+  "directory": "/Users/pofu/Desktop/Udacity/p4/p4_1/L1_Project/build",
+  "command": "/usr/bin/clang++  -isystem /usr/local/include/opencv4  -std=c++17 -pthread -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.0.sdk -std=gnu++11 -o CMakeFiles/traffic_simulation.dir/src/Street.cpp.o -c /Users/pofu/Desktop/Udacity/p4/p4_1/L1_Project/src/Street.cpp",
+  "file": "/Users/pofu/Desktop/Udacity/p4/p4_1/L1_Project/src/Street.cpp"
+},
+{
+  "directory": "/Users/pofu/Desktop/Udacity/p4/p4_1/L1_Project/build",
+  "command": "/usr/bin/clang++  -isystem /usr/local/include/opencv4  -std=c++17 -pthread -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.0.sdk -std=gnu++11 -o CMakeFiles/traffic_simulation.dir/src/TrafficObject.cpp.o -c /Users/pofu/Desktop/Udacity/p4/p4_1/L1_Project/src/TrafficObject.cpp",
+  "file": "/Users/pofu/Desktop/Udacity/p4/p4_1/L1_Project/src/TrafficObject.cpp"
+},
+{
+  "directory": "/Users/pofu/Desktop/Udacity/p4/p4_1/L1_Project/build",
+  "command": "/usr/bin/clang++  -isystem /usr/local/include/opencv4  -std=c++17 -pthread -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.0.sdk -std=gnu++11 -o CMakeFiles/traffic_simulation.dir/src/TrafficSimulator-L1.cpp.o -c /Users/pofu/Desktop/Udacity/p4/p4_1/L1_Project/src/TrafficSimulator-L1.cpp",
+  "file": "/Users/pofu/Desktop/Udacity/p4/p4_1/L1_Project/src/TrafficSimulator-L1.cpp"
+},
+{
+  "directory": "/Users/pofu/Desktop/Udacity/p4/p4_1/L1_Project/build",
+  "command": "/usr/bin/clang++  -isystem /usr/local/include/opencv4  -std=c++17 -pthread -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.0.sdk -std=gnu++11 -o CMakeFiles/traffic_simulation.dir/src/Vehicle_Student.cpp.o -c /Users/pofu/Desktop/Udacity/p4/p4_1/L1_Project/src/Vehicle_Student.cpp",
+  "file": "/Users/pofu/Desktop/Udacity/p4/p4_1/L1_Project/src/Vehicle_Student.cpp"
+}
+]
