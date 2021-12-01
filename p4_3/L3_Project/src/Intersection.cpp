@@ -82,7 +82,7 @@ void Intersection::addVehicleToQueue(std::shared_ptr<Vehicle> vehicle)
     _waitingVehicles.pushBack(vehicle, std::move(prmsVehicleAllowedToEnter));
 
     // wait until the vehicle is allowed to enter
-    ftrVehicleAllowedToEnter.wait();
+    ftrVehicleAllowedToEnter.get();
     uq_lock.lock();
     std::cout << "Intersection #" << _id << ": Vehicle #" << vehicle->getID() << " is granted entry." << std::endl;
 }
